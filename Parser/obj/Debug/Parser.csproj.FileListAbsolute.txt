@@ -1,0 +1,9 @@
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/bin/Debug/Parser.dll
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/bin/Debug/Parser.pdb
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/bin/Debug/Scanner.dll
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/bin/Debug/Scanner.pdb
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/obj/Debug/Parser.csproj.AssemblyReference.cache
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/obj/Debug/Parser.csproj.CoreCompileInputs.cache
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/obj/Debug/Parser.csproj.CopyComplete
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/obj/Debug/Parser.dll
+/Users/gabrieladiazr/Projects/CompiladorFechas/Parser/obj/Debug/Parser.pdb
