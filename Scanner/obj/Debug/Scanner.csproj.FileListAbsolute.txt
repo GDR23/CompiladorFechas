@@ -1,0 +1,6 @@
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/bin/Debug/Scanner.dll
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/bin/Debug/Scanner.pdb
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/obj/Debug/Scanner.csproj.AssemblyReference.cache
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/obj/Debug/Scanner.csproj.CoreCompileInputs.cache
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/obj/Debug/Scanner.dll
+/Users/gabrieladiazr/Projects/CompiladorFechas/Scanner/obj/Debug/Scanner.pdb
