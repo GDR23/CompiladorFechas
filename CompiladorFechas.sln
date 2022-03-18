@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompiladorFechas_Console", "CompiladorFechas_Console\CompiladorFechas_Console.csproj", "{9467D16A-2490-4BAB-A3A3-7EE71DE58780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scanner", "Scanner\Scanner.csproj", "{D3377DEA-691C-425D-8893-6292AB253435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{9E7FEE46-757A-440F-A415-0C79F1FE358F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9467D16A-2490-4BAB-A3A3-7EE71DE58780}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{9467D16A-2490-4BAB-A3A3-7EE71DE58780}.Debug|anycpu.Build.0 = Debug|anycpu
+		{9467D16A-2490-4BAB-A3A3-7EE71DE58780}.Release|anycpu.ActiveCfg = Release|anycpu
+		{9467D16A-2490-4BAB-A3A3-7EE71DE58780}.Release|anycpu.Build.0 = Release|anycpu
+		{D3377DEA-691C-425D-8893-6292AB253435}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{D3377DEA-691C-425D-8893-6292AB253435}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{D3377DEA-691C-425D-8893-6292AB253435}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{D3377DEA-691C-425D-8893-6292AB253435}.Release|anycpu.Build.0 = Release|Any CPU
+		{9E7FEE46-757A-440F-A415-0C79F1FE358F}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{9E7FEE46-757A-440F-A415-0C79F1FE358F}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{9E7FEE46-757A-440F-A415-0C79F1FE358F}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{9E7FEE46-757A-440F-A415-0C79F1FE358F}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27F7E20-D38E-43F6-A126-57135ABDE788}
+	EndGlobalSection
+EndGlobal
